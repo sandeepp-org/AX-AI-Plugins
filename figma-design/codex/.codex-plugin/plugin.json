@@ -1,0 +1,5 @@
+{
+  "name": "figma-design",
+  "version": "2.0.0",
+  "description": "Five Figma design-system skills, run in pipeline order: figma-ds-foundation (BrandPrimitives + App-Primitives variables from the brand guidelines), figma-design-direction (3-4 distinct direction alternatives to choose from, then a conform pass), figma-ds-core (semantic and component tokens, text/effect styles and the component library), figma-vd-contract (the PRD-to-design-direction contract with its per-screen state ledger) and figma-vd-rollout (production screens with every state and motion as a Figma prototype)."
+}
