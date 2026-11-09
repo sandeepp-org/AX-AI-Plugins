@@ -1,0 +1,20 @@
+{
+  "name": "ts-full-stack",
+  "displayName": "TS Full-Stack Skill Set",
+  "description": "Ten portable JS/TS full-stack skills — architecture, code style, zero-mock testing, package scaffolding and validation, accessibility, component docs, and review — resolved against a per-repo STACK-PROFILE.md with repo inference as fallback.",
+  "version": "2.1.0",
+  "author": {
+    "name": "Aatmix",
+    "email": "it@aatmix.com"
+  },
+  "repository": "https://github.com/chandra-pangea/plugin-ax-ai-ts-full-stack",
+  "keywords": [
+    "typescript",
+    "javascript",
+    "react",
+    "node",
+    "skills",
+    "standards"
+  ],
+  "license": "UNLICENSED"
+}
